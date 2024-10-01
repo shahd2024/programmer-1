@@ -1,0 +1,57 @@
+@media screen and (max-width:820px) {
+    .header-heading h1{
+        font-size: 30px;
+        
+    }
+    
+}
+@media screen and (max-width:992px) {
+    .navbar{
+        /* background-color: white; */
+        
+
+        
+    }
+    .navbar .nav-link{
+        color: black !important;
+    }
+    .home-link::after{
+        width: 0%;
+        
+    
+    }
+    
+}
+@media screen and (max-width:1200px) {
+    .about-info{
+        margin-bottom: 100px;
+    }
+    .progress-layer .pg-2{
+        right: -400% !important;
+     
+     }
+     .progress-layer .pg-1{
+        right: -380% !important;
+     
+     }
+     .progress-layer .pg-3{
+        right: -300% !important;
+     
+     }
+     .services-2 p{
+        max-width: 100% !important;
+     }
+     .protofile{
+        margin-top: 1000px !important;
+     }
+  
+
+    
+}
+@media  screen and (min-width:769px) {
+    /* .protofile .item{
+        width: 50%;
+
+    } */
+    
+}
